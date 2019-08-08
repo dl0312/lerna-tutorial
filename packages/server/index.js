@@ -1,3 +1,5 @@
-const commonFunction = require("@walnut/common");
+const commonFunction = require('@walnut/common')
 
-commonFunction();
+commonFunction()
+commonFunction()
+commonFunction()
